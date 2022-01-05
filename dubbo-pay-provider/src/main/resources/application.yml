@@ -1,0 +1,23 @@
+server:
+  port: 8087
+spring:
+  application:
+    name: dubbo-pay-provider
+  main:
+    #相同的bean进行覆盖
+    allow-bean-definition-overriding: true
+  cloud:
+    nacos:
+      discovery:
+        #nacos地址
+        server-addr: 192.168.6.128:8863
+
+dubbo:
+  scan:
+    #扫描包
+    base-packages: com.zyh
+  protocol:
+    #-1表示 端口自增 从 20800开始
+    port: -1
+    #使用dubbo协议
+    name: dubbo

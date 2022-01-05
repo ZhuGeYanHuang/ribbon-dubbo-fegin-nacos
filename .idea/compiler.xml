@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-supermarket-comment-api" />
+        <module name="supermarket-pay" />
+        <module name="weichat" />
+        <module name="dubbo-fegin-member-consumer" />
+        <module name="dubbo-pay-provider" />
+        <module name="dubbo-fegin-supermarket-pay-provider" />
+        <module name="dubbo-member-consumer" />
+        <module name="memberTwo" />
+        <module name="member" />
+        <module name="ribbondemo" />
+        <module name="order" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo-supermarket-pay-api" target="8" />
+      <module name="dubbo-supermarket-pay-provider" target="8" />
+      <module name="dubbo-supermarket-pay-server" target="8" />
+      <module name="dubbo-supermarket-pay-service" target="8" />
+      <module name="duboo-pay-provider" target="1.8" />
+      <module name="qqqqqqqq" target="8" />
+      <module name="SentinelDemo" target="8" />
+      <module name="sentineltest" target="1.8" />
+      <module name="zyh-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SentinelDemo" options="-parameters" />
+      <module name="dubbo-fegin-member-consumer" options="-parameters" />
+      <module name="dubbo-fegin-supermarket-pay-provider" options="-parameters" />
+      <module name="dubbo-member-consumer" options="-parameters" />
+      <module name="dubbo-pay-provider" options="-parameters" />
+      <module name="dubbo-supermarket-comment-api" options="-parameters" />
+      <module name="dubbo-supermarket-pay-api" options="-parameters" />
+      <module name="dubbo-supermarket-pay-provider" options="-parameters" />
+      <module name="dubbo-supermarket-pay-server" options="-parameters" />
+      <module name="dubbo-supermarket-pay-service" options="-parameters" />
+      <module name="duboo-pay-provider" options="-parameters" />
+      <module name="member" options="-parameters" />
+      <module name="memberTwo" options="-parameters" />
+      <module name="mysupermarket" options="-parameters" />
+      <module name="order" options="-parameters" />
+      <module name="ribbondemo" options="-parameters" />
+      <module name="sentineltest" options="-parameters" />
+      <module name="supermarket-pay" options="-parameters" />
+      <module name="weichat" options="-parameters" />
+      <module name="zyh-test" options="-parameters" />
+    </option>
+  </component>
+</project>

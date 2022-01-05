@@ -1,0 +1,18 @@
+server:
+  port: 9031
+spring:
+  application:
+    name: dubbo-member-consumer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.6.128:8863
+  main:
+    allow-bean-definition-overriding: true
+
+dubbo:
+  cloud:
+    subscribed-services: dubbo-pay-provider,dubbo-pay-provider
+  protocol:
+    name: dubbo
+    port: -1
