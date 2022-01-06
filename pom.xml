@@ -25,7 +25,6 @@
         <module>order</module>
         <module>supermarket-pay</module>
         <module>dubbo-supermarket-comment-api</module>
-        <module>SentinelDemo</module>
 
     </modules>
 
