@@ -1,0 +1,14 @@
+
+7
+java:S16438"Use a StringBuilder instead.(õå¢Óÿÿÿÿÿ
+^
+java:S2583,"CChange this condition so that it does not always evaluate to "true"(ãÆ°Ôûÿÿÿÿ
+v
+java:S1488J"[Immediately return this expression instead of assigning it to the temporary variable "str".(ÎäË‹ıÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÀßìÃøÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(°Î¶
+M
+java:S1135("2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+B
+java:S1125,"'Remove the unnecessary boolean literal.(ãÆ°Ôûÿÿÿÿ

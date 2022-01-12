@@ -1,0 +1,10 @@
+
+J
+java:S3740&"/Provide the parametrized type for this generic.(ƒ™¢øÿÿÿÿ
+^
+java:S11923"HDefine a constant instead of duplicating this literal "version" 3 times.(ı×Ïµ
+Y
+java:S11559">Use isEmpty() to check whether the collection is empty or not.(Â¢Î¥ıÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã¼
+œ
+java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ØğâÛüÿÿÿÿ

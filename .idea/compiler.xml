@@ -15,6 +15,8 @@
         <module name="dubbo-fegin-supermarket-pay-provider" />
         <module name="dubbo-member-consumer" />
         <module name="memberTwo" />
+        <module name="springresttemplatesentinel" />
+        <module name="sentinelfegin" />
         <module name="member" />
         <module name="ribbondemo" />
         <module name="order" />
@@ -50,7 +52,9 @@
       <module name="mysupermarket" options="-parameters" />
       <module name="order" options="-parameters" />
       <module name="ribbondemo" options="-parameters" />
+      <module name="sentinelfegin" options="-parameters" />
       <module name="sentineltest" options="-parameters" />
+      <module name="springresttemplatesentinel" options="-parameters" />
       <module name="supermarket-pay" options="-parameters" />
       <module name="weichat" options="-parameters" />
       <module name="zyh-test" options="-parameters" />

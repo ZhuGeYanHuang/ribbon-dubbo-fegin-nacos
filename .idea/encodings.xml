@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/SentinelDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-fegin-member-consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-fegin-supermarket-pay-provider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-member-consumer/src/main/java" charset="UTF-8" />
@@ -11,6 +10,8 @@
     <file url="file://$PROJECT_DIR$/memberTwo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ribbondemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sentinelfegin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springresttemplatesentinel/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/supermarket-pay/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/weichat/src/main/java" charset="UTF-8" />
   </component>

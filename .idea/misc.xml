@@ -19,6 +19,8 @@
         <option value="$PROJECT_DIR$/dubbo-fegin-supermarket-pay-provider/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-fegin-member-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/weichat/pom.xml" />
+        <option value="$PROJECT_DIR$/springresttemplatesentinel/pom.xml" />
+        <option value="$PROJECT_DIR$/sentinelfegin/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

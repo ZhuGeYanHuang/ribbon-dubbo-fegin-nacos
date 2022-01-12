@@ -1,0 +1,19 @@
+server:
+  port: 8731
+
+spring:
+  application:
+    name: sentinel-fegin-test
+#nacos注册中心
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.6.128:8863
+#接入sentinel控制台
+    sentinel:
+      transport:
+        dashboard: 127.0.0.1:9090
+#开启fegin-sentinel 支持
+feign:
+  sentinel:
+    enabled: true

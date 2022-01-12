@@ -16,9 +16,9 @@ public class AuthIntercepter implements HandlerInterceptor {
     public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
         String authorization = request.getHeader("Authorization");
 
-        if (StringUtils.isEmpty(authorization)) {
-            return false;
-        }
+//        if (StringUtils.isEmpty(authorization)) {
+//            return false;
+//        }
         return true;
     }
 
