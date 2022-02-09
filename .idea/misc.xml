@@ -21,6 +21,8 @@
         <option value="$PROJECT_DIR$/weichat/pom.xml" />
         <option value="$PROJECT_DIR$/springresttemplatesentinel/pom.xml" />
         <option value="$PROJECT_DIR$/sentinelfegin/pom.xml" />
+        <option value="$PROJECT_DIR$/sentineldubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/sentineldubboprovider/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

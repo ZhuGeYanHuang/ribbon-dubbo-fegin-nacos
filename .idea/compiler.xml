@@ -15,11 +15,13 @@
         <module name="dubbo-fegin-supermarket-pay-provider" />
         <module name="dubbo-member-consumer" />
         <module name="memberTwo" />
+        <module name="sentineldubbo" />
         <module name="springresttemplatesentinel" />
         <module name="sentinelfegin" />
         <module name="member" />
         <module name="ribbondemo" />
         <module name="order" />
+        <module name="sentineldubboprovider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -52,6 +54,8 @@
       <module name="mysupermarket" options="-parameters" />
       <module name="order" options="-parameters" />
       <module name="ribbondemo" options="-parameters" />
+      <module name="sentineldubbo" options="-parameters" />
+      <module name="sentineldubboprovider" options="-parameters" />
       <module name="sentinelfegin" options="-parameters" />
       <module name="sentineltest" options="-parameters" />
       <module name="springresttemplatesentinel" options="-parameters" />
