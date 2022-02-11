@@ -18,6 +18,7 @@
         <module name="sentineldubbo" />
         <module name="springresttemplatesentinel" />
         <module name="sentinelfegin" />
+        <module name="demo-web" />
         <module name="member" />
         <module name="ribbondemo" />
         <module name="order" />
@@ -39,6 +40,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="SentinelDemo" options="-parameters" />
+      <module name="demo-web" options="-parameters" />
       <module name="dubbo-fegin-member-consumer" options="-parameters" />
       <module name="dubbo-fegin-supermarket-pay-provider" options="-parameters" />
       <module name="dubbo-member-consumer" options="-parameters" />

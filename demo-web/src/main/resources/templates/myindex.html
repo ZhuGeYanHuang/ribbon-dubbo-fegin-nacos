@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+</head>
+
+
+<script src="./asserts/js/jquery.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $('#checkButton').click(function () {
+            $.ajax({
+                type: "GET",
+                url: "http://localhost:9797/order/List",
+                dataType: "json", success: function (data) {
+                    console.log(data);
+                    alert(JSON.stringify(data));
+                }
+            });
+        });
+    });
+</script>
+<body>
+<input id="checkButton" value="测试跨越" name="checkButton" type="button"/>
+</body>
+</html>

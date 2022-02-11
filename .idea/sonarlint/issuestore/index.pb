@@ -248,8 +248,6 @@ Udubbo-fegin-supermarket-pay-provider/src/main/java/com/zyh/pay/impl/PayImplemen
 ,dubbo-fegin-supermarket-pay-provider/pom.xml,a\1\a1c20dea064c344cec519a3174d705d682951876
 Œ
 \dubbo-fegin-supermarket-pay-provider/src/main/java/com/zyh/pay/PayDubboFeginApplication.java,9\a\9a9816dbf0b0045ecc637e951d415fca99ae3ae0
-g
-7order/src/main/java/com/zyh/order/OrderApplication.java,7\2\72746bb8be1852fdcd41836188a06a93c6218b6f
 s
 Cmember/src/main/java/com/zyh/member/controller/OrderController.java,9\6\962af7de1814fb2e9d049a56545396bcc297854b
 c
@@ -268,8 +266,6 @@ S
 #supermarket-pay/supermarket-pay.iml,3\6\3670a6edaf06ad54778445394b6476bdee796aa2
 |
 Lsupermarket-pay/src/main/java/com/zyh/pay/controller/PayMoneyController.java,a\f\af2c8d23a956b60d0b8d99dfdeb706bf5d90780f
-q
-Aorder/src/main/java/com/zyh/order/controller/OrderController.java,6\2\62058b64d85fd88880b3d58fa10e4ed191540f75
 q
 Amember/src/main/java/com/zyh/member/controller/PayController.java,9\3\93ea191eef87ca1e2fb476fd189beedb8578f0e5
 m
@@ -300,8 +296,6 @@ S
 Rsentinelfegin/src/main/java/com/sentinelFegin/demo/controller/OrderController.java,a\b\ab48e552710d07bd6f15972997e6e91801cc5121
 œ
 lspringresttemplatesentinel/src/main/java/com/zyh/spring/resttemplatesentinel/controller/OrderController.java,e\f\ef867aaaf3dc77f04e238677d128a878a9c407c1
-y
-Isupermarket-pay/src/main/java/com/zyh/pay/controller/OrderController.java,0\2\028055dee4a51f3fb2d6429da19de1b1ec598fa0
 z
 Jsentinelfegin/src/main/java/com/sentinelFegin/demo/server/OrderServer.java,1\c\1c7b053b017fcba6f8bf67a5712ea79aab8d3f0a
 ’
